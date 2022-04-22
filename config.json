@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "938437038552801330",
+        "prefix": ".",
+        "BotStatus": "Burası Pendik Bebeğim",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "947427257020985404",
+            "log": "845033684762886185",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "955533366529232956",
+            "roles": "913014839037820938",
+            "log": "947112994385567754",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "955533366529232956",
+            "roles": "947112776361472000",
+            "log": "947112994385567754",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "955533366529232956",
+            "log": "947112994385567754"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "964994721548234814",
+        "voicelog": "964994721548234814",
+        "taglog": "947112924441346098"
+    },
+    "roles": {
+        "boosterrole": "947122952116265032",
+        "viprole": "947112636468830289",
+        "designerrole": "TASARIMCI ROLÜ ID",
+        "musiciansrole": "MÜZİSYEN ROLÜ ID",
+        "team": "947137816545067008",
+        "sponsored": "SPONSOR ROLÜ ID"
+    },
+    "channels": {
+        "chat": "947112924441346098",
+        "voicechannel": "947255223813013514",
+        "welcomechannel": "947112924441346098",
+        "rules": "947112896360484935"
+    },
+    "parents": {
+        "publicparents": "938437038552801330"
+    },
+    "registration": {
+        "unregistered": "947112656052060241",
+        "man": [""],
+        "woman": [""],
+        "staff": "",
+        "GuilDTag": "#0034\n神",
+        "TagSymbol": "神",
+        "autonickname": "",
+        "symbol": "",
+        "suspecios": "913014839037820938",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "913013927963689020",
+        "onewoman": "913013931994402826",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "947107463046516796",
+        "GuilDName": "Burası Pendik Bebeğim",
+        "GuildOwnerRole": ["911732097796939797"]
+    },
+    "emojis": {
+        "tada": "952492653038153758",
+        "yes": "955187830139809802",
+        "no": "953571883222204417"
+    },
+    "buttons": {
+        "giveaway": "964985147248214066",
+        "activity": "965009257881804810"
+    }
+}
